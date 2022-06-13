@@ -30,4 +30,6 @@ function newItem (){
         li.addCLass('delete')
     }
 
+    // reordering the items
+    $('#list').sortable();
 }
