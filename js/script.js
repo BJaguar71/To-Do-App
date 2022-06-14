@@ -27,7 +27,7 @@ function newItem (){
 
     // function to delete item from the list
     function deleteListItem () {
-        li.addCLass('delete')
+        li.addClass('delete')
     }
 
     // reordering the items
